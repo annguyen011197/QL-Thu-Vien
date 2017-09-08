@@ -1,0 +1,37 @@
+﻿Build started 12/19/2015 2:02:03 AM.
+     1>Project "F:\Baitap\QLThuVien\QLThuVien\QLThuVien.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QLThuVien.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Xuat.cpp
+         Xuat.cpp
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(166): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(175): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(184): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(207): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(216): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(236): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(253): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(272): error C2601: 'thuchien2' : local function definitions are illegal
+                 f:\baitap\qlthuvien\qlthuvien\xuat.cpp(120): this line contains a '{' which has not yet been matched
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(421): error C2601: 'thuchien3' : local function definitions are illegal
+                 f:\baitap\qlthuvien\qlthuvien\xuat.cpp(120): this line contains a '{' which has not yet been matched
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(492): error C2601: 'thuchien4' : local function definitions are illegal
+                 f:\baitap\qlthuvien\qlthuvien\xuat.cpp(120): this line contains a '{' which has not yet been matched
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(535): error C2601: 'thuchien5' : local function definitions are illegal
+                 f:\baitap\qlthuvien\qlthuvien\xuat.cpp(120): this line contains a '{' which has not yet been matched
+     1>f:\baitap\qlthuvien\qlthuvien\xuat.cpp(599): fatal error C1075: end of file found before the left brace '{' at 'f:\baitap\qlthuvien\qlthuvien\xuat.cpp(120)' was matched
+     1>Done Building Project "F:\Baitap\QLThuVien\QLThuVien\QLThuVien.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.30

@@ -1,0 +1,9 @@
+void nhapten(char ten[][40], int &dem);
+void nhaptenID(char ten[][40], int dem);
+void nhapngaythang(int a[][3], int dem);
+void nhapgt(int a[], int dem);
+void nhapcm(char ten[][40], int dem);
+void nhapdc(char ten[][200], int dem);
+void nhapxb(char ten[][200], int dem);
+void nhapmail(char ten[][40], int dem);
+void nhape(char ten[][40], int dem);

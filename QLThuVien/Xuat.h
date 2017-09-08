@@ -1,0 +1,14 @@
+void xuatten(char a[][40], int dem);
+void Ten_ID(char a[][9], int dem, int q);
+void menu();
+int chonmuc(char &c);
+char choncn(char &c);
+void thuchien1(char ten_e[][40], char ten[][40], char ten_ID[][9], char ten_cm[][40], char dc[][200], int ten_ns[][3], int ten_gt[], int ten_nl[][3], int ten_nh[][3], int &dem, char c, int &ID);
+void xuattt(char ten_e[][40], char ten[][40], char ten_ID[][9], char ten_cm[][40], char dc[][200], int ten_ns[][3], int ten_gt[], int ten_nl[][3], int ten_nh[][3]);
+void xuattc(char sach_tl[][40], char sach[][40], char sach_ID[][9], char sach_ten[][40], char sach_xb[][200], int sach_nxb[], int sach_gia[], int sach_sq[], int i);
+int timID(char ten_ID[][40], char ID[], int dem);
+void S_ID(char a[][9], int dem, int q);
+void thuchien2(char sach_tl[][40], char sach[][40], char sach_ID[][9], char sach_ten[][40], char sach_xb[][200], int sach_nxb[], int sach_gia[], int sach_sq[], int &dem, char c, int &sID);
+void thuchien3(char ten[][40], char ten_ID[][9], char sach[][40], char sach_ID[][9], int the[][10], int ngaymuon[][3], int ngaytradk[][3], int dem, char ten_cm[][40], int &demt, int sach_sq[], int ten_nh[][3], int ten_nl[][3]);
+void thuchien4(char ten_ID[][9], char sach_ID[][9], int the[][10], int thet[][10], int ngaymuon[][3], int ngaytradk[][3], int dem, int demt, int sach_sq[], int &demtt, int ngaytrat[][3], int sach_gia[], int &demm);
+void thuchien5(int dem, int demt, int demtt, int dem_s, int the[][10], char sach_tl[][40], char c, int ten_gt[], int demm);
